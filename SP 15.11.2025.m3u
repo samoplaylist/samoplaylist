@@ -1,0 +1,212 @@
+#EXTM3U url-tvg="https://github.com/radoslavv/epg/releases/latest/download/guide.xml.gz"
+
+#EXTINF:-1 tvg-id="Jednotka.sk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_of_Jednotka_%282004-2012%29.png?20141031171306",STV1
+http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jednotka.sk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_of_Dvojka_%282004-2012%29.png",STV2
+http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVSsport.sk" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="Sports",STV Šport (1080p)
+http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CSFilm.cz" tvg-logo="https://www.jojgroup.sk/wp-content/uploads/CS-film-1.png" http-referrer="https://media.joj.sk/",[] CS Film []
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cs_film-720.m3u8
+
+#EXTINF:-1 tvg-id="CSHistory.cz" tvg-logo="https://www.jojgroup.sk/wp-content/uploads/CS-history-2.png" http-referrer="https://media.joj.sk/",[] CS History []
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cs_history-720.m3u8
+
+#EXTINF:-1 tvg-id="CSMystery.cz" tvg-logo="https://www.jojgroup.sk/wp-content/uploads/CS-mistery.png" http-referrer="https://media.joj.sk/",[] CS Mystery []
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cs_mystery-720.m3u8
+
+#EXTINF:-1 tvg-id="JOJ24.sk" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDAQOIBC/961-joj-24-hd.png" http-referrer="https://media.joj.sk/",[] JOJ24 (720p) []
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
+
+#EXTINF:-1 tvg-id="JOJCinema.sk" tvg-logo="https://img.joj.sk/rx/logocinema" http-referrer="https://media.joj.sk/",[] JOJ Cinema (720p) []
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cinema-720.m3u8
+
+#EXTINF:-1 tvg-id="JOJFamily.sk" tvg-logo="https://img.joj.sk/rx/d8243ddf9e64c682833f0d16a820d7e8.png" http-referrer="https://media.joj.sk/",[] JOJ Family (720p) []
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/family-720.m3u8
+
+#EXTINF:-1 tvg-id="JOJPlus.sk" tvg-logo="https://img.joj.sk/rx/a5c8efb1-9894-41a3-9b8a-b083dddb73ce.png" http-referrer="https://media.joj.sk/",[] JOJ Plus (720p) []
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/plus-720.m3u8
+
+#EXTINF:-1 tvg-id="JOJSport.sk" tvg-logo="https://img.joj.sk/rx100/eaf7a5e2-353f-4d11-86b5-da5719a7108b" http-referrer="https://media.joj.sk/",[] JOJ Šport (720p) []
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_sport-720.m3u8
+
+#EXTINF:-1 tvg-id="JOJSport2.sk" tvg-logo="https://img.joj.sk/r1200x/a1b66c1c-1d8e-43fb-ab8d-bc97edd1af20" http-referrer="https://media.joj.sk/",[] JOJ Šport (720p) [] 2
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_sport2-720.m3u8
+
+#EXTINF:-1 tvg-id="JOJWAU.sk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Wau_nove_logo.png" http-referrer="https://media.joj.sk/",[] JOJ WAU (720p) []
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
+
+#EXTINF:-1 tvg-id="Jojko.sk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Jojko.png" http-referrer="https://media.joj.sk/",[] Jojko (720p) []
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/jojko-720.m3u8
+
+#EXTINF:-1 tvg-id="TVJOJ.sk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/TV_JOJ_HD.svg/revision/latest/scale-to-width-down/250?cb=20200116055018" http-referrer="https://media.joj.sk/",[] TV JOJ (720p) []
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8
+
+#EXTINF:-1 tvg-id="LifeTv.sk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8-6-0qqpoq9oS4Z5gYF4ZI1EQ3Imxiq_Dw&s",[] LifeTv (1080p) []
+https://lifetv.mpks.sk/s.m3u8
+
+#EXTINF:-1 tvg-id="Markiza.sk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mark%C3%ADza_%282022%29.svg/1280px-Mark%C3%ADza_%282022%29.svg.png" group-title="General",[] Markíza LTI []
+https://cdnsk003.panaccess.com/local/Markiza/index.m3u8
+
+#EXTINF:-1 tvg-id="Jednotka.sk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Mark%C3%ADza_1996.svg/revision/latest?cb=20220503114233",Markiza HTI
+http://88.212.15.19/live/test_markiza_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MarkizaKlasik.sk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mark%C3%ADza_Klasik.svg/500px-Mark%C3%ADza_Klasik.svg.png",[] Markiza Klasik (1080p) []
+https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
+
+#EXTINF:-1 tvg-id="MarkizaKrimi.sk" tvg-logo="https://cmesk-ott-images-avod.ssl.cdn.cra.cz/rxn/q80/d07ef256-9ae0-496b-86a5-01101c2d00c1?default=42264e81-7415-45ba-acc1-19969b1644ca",[] Markiza Krimi (1080p) []
+https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
+
+#EXTINF:-1 tvg-id="Jednotka.sk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Dajto.png",Dajto
+http://88.212.15.19/live/test_dajto_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Senzi.sk" tvg-logo="https://static.wikia.nocookie.net/cstv/images/8/85/Senzi.png/revision/latest?cb=20160103091446",[] Senzi (720p) []
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TA3.sk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TA3_logo.png/1200px-TA3_logo.png",[] TA3 (360p) []
+http://88.212.15.19/live/test_ta3_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV8.sk" tvg-logo="https://yt3.googleusercontent.com/cB9PyrA-CndtHtSsmJlIDWgB_8EZKEgp-0THb7BODF2Abzt-p17_cidnn1ZeSJAfYo0c3Ye4Rg=s900-c-k-c0x00ffffff-no-rj",[] Televízia OSEM (576p) []
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CT1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/1200px-%C4%8CT1_logo_2012.svg.png",[] ČT 1 []
+http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CT2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/1200px-%C4%8CT2_logo_2012.svg.png",[] ČT 2 []
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CT24.cz" tvg-logo="https://public.flourish.studio/uploads/863250/48464bef-b486-441e-9cf0-68ae91dd4839.png",[] ČT24 (1080p) []
+http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png",[] ČT Sport (720p) []
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTD.cz" tvg-logo="https://www.pcdays.cz/wp-content/uploads/2017/04/CTDART_HD-1.png",[] ČT:D/ČT art (1080p) []
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-logo="https://elektrika.tv/elektrika-tv.jpg",[] Elektrika TV (1080p) []
+https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JC1.cz" tvg-logo="https://www.ckrumlov.cz/img/2024110800_bannersvg_obcan.png",[] JČ1 (1080p) []
+https://stream.jc1.cz/hls/jc1.m3u8
+
+#EXTINF:-1 tvg-id="Jihoceskatelevize.cz" tvg-logo="https://www.impulsprokarieru.cz/liip/cache/link_thumbnail/uploads/media///jhk_api/company/company_logo/629f0f0377943665131462.bmp",[] Jihočeská televize (1080p) []
+https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
+
+#EXTINF:-1 tvg-id="KinoBarrandov.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Kino_Barrandov_logo.png",[] Kino Barrandov (720p) []
+http://83.167.253.107/hdmi1_ext
+
+#EXTINF:-1 tvg-id="MinimaxCEE.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/MinimaxLogo2013.png/1200px-MinimaxLogo2013.png",[] Minimax (576p) (576p) []
+http://88.212.15.19/live/test_minimax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MnauTV.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/M%C5%88au_TV_II.svg/revision/latest/scale-to-width-down/250?cb=20210627165342",[] Mňau TV (1080p) []
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OIKTV.cz" tvg-logo="https://imageserver.srv.czcloud.i.mtvreg.com/png?image=http%3A%2F%2Ffilecdn.srv.czcloud.i.mtvreg.com%2Fcache%2Flogos512%2Foik.png&width=256&height=256",[] OIK TV (720p) []
+https://streamer05.low-latency.cz/oiktv/index.m3u8
+
+#EXTINF:-1 tvg-id="PlzenTV.cz" tvg-logo="https://sledovanitv.cz/cache/logos256/plzen_tv.png",[] Plzeň TV (1080p) []
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+
+#EXTINF:-1 tvg-id="Polar2.cz" tvg-logo="https://www.wic-net.cz/wp-content/uploads/2016/09/POLAR.jpg",[] Polar2 TV (1080p) []
+https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PolarTV.cz" tvg-logo="https://www.wic-net.cz/wp-content/uploads/2016/09/POLAR.jpg",[] Polar TV (1080p) []
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",[] Retro Music Television (360p) []
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBrno1.cz" tvg-logo="https://tvbrno1.cz/images/layout/header/logo.png",[] TV Brno 1 (1080p) []
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNoe.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Noe-logo-2016.png/250px-Noe-logo-2016.png",[] TV NOE (720p) []
+https://n105.quickmedia.tv/noe-abr/noe-abr/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="TVNoePlus.cz" tvg-logo="https://www.tvnoe.cz/images/aktuality/20230113noeplus.jpg",[] TV NOE+ (720p) []
+https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="TVNova.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/TV_Nova_Logo_2024.svg/1200px-TV_Nova_Logo_2024.svg.png",[] TV Nova (1080p) []
+http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UTV.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/UTV_logo_%281993-2001%29.svg/2560px-UTV_logo_%281993-2001%29.svg.png",[] ÚTV (1080p) []
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+
+#EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-logo="https://tn-media.cz/img/v1.png",[] Východočeská TV (1080p) []
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusSport2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Canal%2B_Sport2.jpg",[] Canal+ Sport 2 (1080i) []
+http://78.130.250.2:8023/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Arena_Sport_TV_1.png" ,Arena Sport 1 HD
+http://78.130.250.2:8023/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-id="NovaCinema.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Nova_Cinema_2024.png",[] Nova Cinema (1080p) []
+http://88.212.15.19/live/nova_cinema_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NovaGold.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_Gold_logo.png/250px-Nova_Gold_logo.png",[] Nova Gold (1080p) []
+http://88.212.15.19/live/nova_gold_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NovaAction.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_Action_logo_2021.png",[] Nova Action (1080p) []
+http://88.212.15.19/live/nova_action_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NovaFun.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_Nova_FUN.png/250px-Logo_Nova_FUN.png",[] Nova Fun (1080p) []
+http://88.212.15.19/live/nova_fun_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Prima_2013.svg/revision/latest/scale-to-width-down/250?cb=20171222083718",[] Prima (1080p) []
+http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaCool.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Prima_Cool_logo_zelen%C3%A9.png",[] Prima Cool (1080p) []
+http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaKrimi.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Prima_Krimi.png",[] Prima Krimi (1080p) []
+http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaLove.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Prima_Love_logo.png",[] Prima Love (1080p) []
+http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaZoom.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Prima_ZOOM_logo.svg",[] Prima Zoom (1080p) []
+http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNova.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Banovce_kostol.jpg/1200px-Banovce_kostol.jpg",[] kostol []
+http://88.212.15.19/live/test_terasa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNova.cz" tvg-logo="https://unitedasiadevelopers.com/media/images/fashion-tv-seeklogo_1.original.png",Fashion TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:-1,Nova Sport 2 HD (clone)
+http://78.130.250.2:8023/play/a035/index.m3u8
+
+#EXTINF:-1,CANAL+ Sport (CZ)
+http://78.130.250.2:8023/play/a02v/index.m3u8
+
+#EXTINF:-1,Arena Sport 1 HD
+http://78.130.250.2:8023/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-id="tvruzinov" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMg8h6ypng3gljThj0P7ekqPOeYxmFO3ToQ&s" group-title="Slovakia",TV Ružinov
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="parktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Park_TV.png" group-title="Slovakia",Park TV
+http://lb.streaming.sk/parktv/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvruzomberok" tvg-logo="https://i0.wp.com/sledovanietv.sk/cache/logos256/ruzomberok.png?w=1170&ssl=1" group-title="Slovakia",TV Ružomberok
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+
+
+
+
