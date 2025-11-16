@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/radoslavv/epg/releases/latest/download/guide.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="Jednotka.sk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_of_Jednotka_%282004-2012%29.png?20141031171306",STV1
 http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
